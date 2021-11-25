@@ -99,7 +99,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">sunnygkp10@gmail.com</a><br /><br />
+<a href="mailto:gouravgaur270@gmail.com" style="color:#000000">gouravgaur270@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
 <p>Or you can directly submit your feedback by filling the enteries below:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
@@ -164,13 +164,13 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="" width=100 height=100 alt="Gourav kumar" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Gouravgaur</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">828282828282</h4>
+		<h4 style="font-family:'typo' ">gouravgaur270@gmail.com</h4>
+		<h4 style="font-family:'typo' ">New Delhi</h4></div></div>
 		</p>
       </div>
     
